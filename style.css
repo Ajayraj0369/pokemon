@@ -1,0 +1,49 @@
+#theHeading{
+    text-align: top;
+    
+    color:black;
+    padding: 0px; 0; 10px; 20px;
+   
+}
+
+#title{
+    float: left;
+    padding: 3px, 2px , 4px, 5px; 
+/* border: 2px solid black; */
+width: 300px;
+}
+
+#name{
+border: 2px solid black;
+width: 100px;
+padding: 10px;
+
+
+}
+
+body{
+
+border: 5px, solid black;
+
+}
+
+.container{
+    
+    width:1500px;
+    margin: 0 auto;
+    background: #fff;
+}
+.table{
+border: 2px solid black;
+width: 500px;
+
+}
+
+/* #firstone{ */
+
+
+tr,th{
+border:1px solid black;
+
+
+} 
